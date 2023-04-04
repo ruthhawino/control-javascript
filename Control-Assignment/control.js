@@ -19,7 +19,10 @@ function arrays(z){
 let numbers=[15,23,2,4,34,12,32]
 numbers.forEach(arrays)
 
-//number3
+//No3
+//Write a function that takes in an array of numbers 
+//aand consoles the first four items multiplied by 8 and the last two added by 5. 
+//Console the array with the new values
 
 let numberss=[23,12,43,2,43,13,15,7,9];
 array(numberss);
